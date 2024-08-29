@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://metfusi.github.io/sitemap.html.gz
+Sitemap: https://metfusi.github.io/app/sitemap.html.gz
+Sitemap: https://metfusi.github.io/assets/sitemap.html.gz
+Sitemap: https://metfusi.github.io/css/sitemap.html.gz
+Sitemap: https://metfusi.github.io/includes/sitemap.html.gz
+Sitemap: https://metfusi.github.io/item/sitemap.html.gz
+Sitemap: https://metfusi.github.io/src/sitemap.html.gz
